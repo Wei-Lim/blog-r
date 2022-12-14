@@ -31,7 +31,7 @@ combination of Hugo and Mainroad can do.
 
 ## Generation
 
-This blog was generated using R, RStudio, Git, GitHub, Hugo, Mainroad theme and Netlify. 
+This blog was generated using R, RStudio, Git, GitHub, Hugo, Mainroad theme and Netlify.  
 
 ## About Mainroad
 
