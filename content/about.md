@@ -1,10 +1,27 @@
 ---
-authorbox: false
-date: "2022-01-25T14:00:00.000Z"
+authorbox: true
+date: ""
 menu: main
 sidebar: false
 title: About
 ---
+
+Dieser Blog dient als 
+
+
+## Categories
+
+This blog categorises each post according to Business Science University's concept "Data Science with R Workflow" to provide guidance to the reader on where to apply the presented R functions and examples. The posts are organised into the following categories.
+
+- Import
+- Tidy
+- Transform
+- Visualize
+- Model
+- Communicate
+
+## Tags
+
 
 Our website builds with [Hugo](https://gohugo.io/) static site generator and
 [Mainroad](https://github.com/vimux/mainroad) theme. This demo allows you to see what Mainroad based website looks like
