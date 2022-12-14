@@ -1,5 +1,5 @@
 baseurl: /
-title: Mainroad
+title: R Blog
 languageCode: en-us
 paginate: '10'
 theme: Mainroad
@@ -9,12 +9,12 @@ Author:
   avatar: img/avatar.png
   bio: John Doe's true identity is unknown. Maybe he is a successful blogger or writer.
     Nobody knows it.
-  name: John Doe
+  name: Dr. William Truong
 Params:
   authorbox: yes
   description: John Doe's Personal blog about everything
   logo:
-    subtitle: Just another site
+    subtitle: providing examples for functions and packages
   mainSections:
     - post
     - docs
